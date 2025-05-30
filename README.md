@@ -111,13 +111,4 @@ omni_home/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
 
-- Flutter team for the amazing framework
-- ESP32 community for the extensive libraries
-- Contributors and testers
-
-## Contact
-
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/omni_home](https://github.com/yourusername/omni_home)
